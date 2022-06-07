@@ -1,0 +1,78 @@
+@font-face {
+  font-family: Shabnam;
+  src: url("fonts/Shabnam.eot"), url("fonts/Shabnam.ttf"),
+    url("fonts/Shabnam.woff"), url("fonts/Shabnam.woff2");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+  font-family: Shabnam;
+}
+
+*{
+  font-family: Shabnam !important;
+}
+
+/* ::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+} */
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f2f4f6;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #8391ac;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555a66;
+}
+
+.editable:empty:before { 
+  content: attr(data-placeholder);
+  color: #49494999;
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+a:visited {
+  color: unset;
+}
+
+.uni_m_b_small {
+  margin-bottom: 1rem;
+}
+
+.hashtag {
+  color: #080074;
+  cursor: pointer;
+}

@@ -1,0 +1,99 @@
+{
+  "twittes": [
+    {
+      "sender": {
+        "name": "Samsung",
+        "id": "@samsung",
+        "img": "/images/samsung.png"
+      },
+      "text": "#سلام خخخخ #خداحافظ چچچ #هاهاها #نه_به_مدرسه_حضوری من خودم اصلا مدرسه نمیرم",
+      "likes": 8
+    },
+    {
+      "sender": {
+        "name": "مهدیار مهدیارنژاد",
+        "id": "@mmneghad",
+        "img": "/images/mahdiar.jpg"
+      },
+      "text": "بهترین وعده غذا با اختلاف صبحانس چون کسی برای صبحانه خورشت #کرفس درست نمی کنه",
+      "likes": 5
+    },
+    {
+      "sender": {
+        "name": "Samsung",
+        "id": "@samsung",
+        "img": "/images/samsung.png"
+      },
+      "text": "بهترین وعده غذا با اختلاف صبحانس چون کسی برای صبحانه خورشت #کرفس درست نمی کنه",
+      "likes": 170
+    },
+    {
+      "sender": {
+        "name": "Samsung",
+        "id": "@samsung",
+        "img": "/images/mahdiar.jpg"
+      },
+      "text": "بهترین وعده غذا با اختلاف صبحانس چون کسی برای صبحانه خورشت #کرفس درست نمی کنه",
+      "likes": 4850
+    },
+    {
+      "sender": {
+        "name": "Samsung",
+        "id": "@samsung",
+        "img": "/images/samsung.png"
+      },
+      "text": "بهترین وعده غذا با اختلاف صبحانس چون کسی برای صبحانه خورشت #کرفس درست نمی کنه",
+      "likes": 42
+    },
+    {
+      "id": 50573,
+      "sender": {
+        "name": "Mahdiar Koohkan",
+        "id": "@mahdiar",
+        "img": "/images/mahdiar.jpg"
+      },
+      "text": "",
+      "likes": 42
+    },
+    {
+      "id": 33989,
+      "sender": {
+        "name": "Mahdiar Koohkan",
+        "id": "@mahdiar",
+        "img": "/images/mahdiar.jpg"
+      },
+      "text": "",
+      "likes": 42
+    }
+  ],
+  "hashTags": [
+    "پرچم_دار_جدید",
+    "کرونا_ویروس",
+    "من_رای_می_دهم",
+    "سلام_دنیا",
+    "ویروس_لعنتی",
+    "لغو_محدودیت"
+  ],
+  "users": [
+    {
+      "name": "Xiaomi",
+      "id": "@xiaomi",
+      "img": "/images/xiaomi.png"
+    },
+    {
+      "name": "Samsung",
+      "id": "@samsung",
+      "img": "/images/samsung.png"
+    },
+    {
+      "name": "بیل گیتس",
+      "id": "@billgates",
+      "img": "/images/bil.png"
+    },
+    {
+      "name": "مهدیار",
+      "id": "@mahdiar",
+      "img": "/images/mahdiar.jpg"
+    }
+  ]
+}
